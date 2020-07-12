@@ -97,6 +97,7 @@
     <Content Include="fonts\ionicons\css\ionicons.min.css" />
     <Content Include="fonts\ionicons\fonts\ionicons.svg" />
     <Content Include="fonts\open-iconic\open-iconic.svg" />
+    <Content Include="images\Basic_Full_Stack_Design.jpg" />
     <Content Include="images\bg_1.jpg" />
     <Content Include="images\bg_2.jpg" />
     <Content Include="images\bg_3.jpg" />
@@ -111,6 +112,8 @@
     <Content Include="images\Project-3.jpg" />
     <Content Include="images\Project-4.jpg" />
     <Content Include="images\TRN-Cropped.jpg" />
+    <Content Include="images\TRN-Cropped2.jpg" />
+    <Content Include="images\Truist.jpg" />
     <Content Include="images\work-1.jpg" />
     <Content Include="images\work-2.jpg" />
     <Content Include="images\work-3.jpg" />

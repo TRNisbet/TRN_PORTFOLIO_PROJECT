@@ -8682,8 +8682,9 @@ h1, h2, h3, h4, h5,
     font-weight: 400; }
   @media (min-width: 992px) {
     .services.active {
-      background: #1e1e1e;
-      color: #fff; }
+        background: #1e1e1e;
+        color: #fff;
+    }
       .services.active h3 {
         color: #fff; }
       .services.active .icon span {
@@ -9156,7 +9157,7 @@ textarea.form-control {
 
 .testimony-section {
   position: relative;
-  background: #1e1e1e; }
+  background: #945240; }
   .testimony-section .testimony-img {
     display: block;
     width: 100%;
