@@ -78,6 +78,7 @@
     <Content Include="CSS\bootstrap\bootstrap-grid.css" />
     <Content Include="CSS\bootstrap\bootstrap-reboot.css" />
     <Content Include="CSS\css\bootstrap-reboot.css" />
+    <Content Include="CSS\css\CoderFoundryIcon.ico" />
     <Content Include="CSS\css\mixins\_text-hide.css" />
     <Content Include="CSS\flaticon.css" />
     <Content Include="CSS\icomoon.css" />
@@ -99,11 +100,13 @@
     <Content Include="images\bg_1.jpg" />
     <Content Include="images\bg_2.jpg" />
     <Content Include="images\bg_3.jpg" />
+    <Content Include="images\Full-Stack-Developer.jpg" />
     <Content Include="images\loc.png" />
     <Content Include="images\person_1.jpg" />
     <Content Include="images\person_2.jpg" />
     <Content Include="images\person_3.jpg" />
     <Content Include="images\person_4.jpg" />
+    <Content Include="images\TRN-Cropped.jpg" />
     <Content Include="images\work-1.jpg" />
     <Content Include="images\work-2.jpg" />
     <Content Include="images\work-3.jpg" />
